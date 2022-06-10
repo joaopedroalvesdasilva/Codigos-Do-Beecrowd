@@ -1,2 +1,2 @@
 # Codigos-Do-Beecrowd
-Meus códigos submetidos ao Beecrowd que foram aceitos.
+Meus códigos em C++ submetidos ao Beecrowd que foram aceitos.
